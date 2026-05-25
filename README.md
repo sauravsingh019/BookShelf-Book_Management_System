@@ -2,8 +2,7 @@
 
 A React-based book management application designed to manage personal book collections with full CRUD operations, API integration, search, filtering, sorting, and responsive UI components.
 
-🔗 **Live Demo:** [Add Deployment Link]  
-📁 **Repository:** [Add GitHub Link]
+🔗 **Live Demo:** https://book-shelf-book-management-system.vercel.app/
 
 ---
 
